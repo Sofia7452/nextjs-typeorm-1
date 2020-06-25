@@ -44,7 +44,7 @@ var CreatePost1592991485928 = /*#__PURE__*/function () {
                     generationStrategy: 'increment'
                   }, {
                     name: 'title',
-                    type: 'varchar'
+                    type: 'text'
                   }, {
                     name: 'content',
                     //长度更长，varchar长度有限制
